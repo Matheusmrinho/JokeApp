@@ -1,0 +1,1 @@
+O JokeApp é um aplicativo que gera piadas ao usuário, cabendo a ele escolher o idioma entre português e inglês. É necessário o Kivy,KivyMD e Requests instalados para poder rodar o app.

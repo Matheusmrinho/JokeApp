@@ -1,0 +1,123 @@
+<Gerenciador>:
+    Tela1:
+    TelaSelecaoLinguagem:
+    TelaPiada:
+    TelaSaida:
+
+<Tela1>:
+    name: 'home'
+    BoxLayout:
+        orientation: 'vertical'
+        Image:
+            source: 'joker.png'
+            allow_stretch: True
+            keep_ratio: True
+        MDFloatLayout:
+            MDFloatLayout:
+                MDLabel:
+                    text: "Quer ouvir uma piada?"
+                    halign: 'center'
+                    font_style: 'H5'
+                    theme_text_color: 'Primary'
+                    pos_hint: {"center_x": 0.5, "center_y": 0.7}
+                MDRaisedButton:
+                    text: "Sim!"
+                    theme_text_color: 'Secondary'
+                    pos_hint: {"center_x": 0.5, "center_y": 0.4}
+                    on_release:
+                        root.abrir_selecao_linguagem()
+                MDRaisedButton:
+                    text: "Não!"
+                    theme_text_color: 'Secondary'
+                    pos_hint: {"center_x": 0.5, "center_y": 0.2}
+                    on_release:
+                        app.root.current = 'telasaida'
+                MDRaisedButton:
+                    id: mudo_button
+                    theme_text_color: 'Custom'
+                    text: "Áudio"
+                    pos_hint: {"center_x": 0.8, "center_y": 0.8}
+                    on_press:
+                        root.toggle_mudo()
+            MDLabel:
+                text: "All Rights Reserved to Matheus Romero Rodrigues Marinho©"
+                halign: 'center'
+                theme_text_color: 'Secondary'
+                font_size: '10sp'
+                size_hint_y: None
+                height: self.texture_size[1]
+                pos_hint: {"center_x": 0.5, "center_y": 0.05}
+
+<TelaSelecaoLinguagem>:
+    name: 'selecao_linguagem'
+    BoxLayout:
+        orientation: 'vertical'
+        Image:
+            source: 'icone.png'
+            allow_stretch: True
+            keep_ratio: True
+        MDFloatLayout:
+            MDLabel:
+                text: "Qual Linguagem você deseja?"
+                theme_text_color: 'Secondary'
+                halign: 'center'
+                font_style: 'H6'
+                pos_hint: {"center_x": 0.5, "center_y": 0.8}
+            MDRaisedButton:
+                text: "Português"
+                pos_hint: {"center_x": 0.3, "center_y": 0.5}
+                on_release:
+                    root.abrir_telapiada('portugues')
+            MDRaisedButton:
+                text: "Inglês"
+                pos_hint: {"center_x": 0.7, "center_y": 0.5}
+                on_release:
+                    root.abrir_telapiada('ingles')
+
+<TelaPiada>:
+    name: 'telapiada'
+    MDFloatLayout:
+        MDLabel:
+            id: setup
+            text: ""
+            halign: 'center'
+            font_style: 'H5'
+            theme_text_color: 'Primary'
+            pos_hint: {"center_x": 0.5, "center_y": 0.7}
+        MDLabel:
+            id: resposta
+            text: ""
+            halign: 'center'
+            font_style: 'Body1'
+            theme_text_color: 'Secondary'
+            pos_hint: {"center_x": 0.5, "center_y": 0.5}
+        MDRaisedButton:
+            text: "Voltar"
+            theme_text_color: 'Secondary'
+            pos_hint: {"center_x": 0.5, "center_y": 0.2}
+            on_release:
+                app.root.current = 'home'
+        MDLabel:
+            text: "All Rights Reserved to Matheus Romero Rodrigues Marinho©"
+            halign: 'center'
+            theme_text_color: 'Secondary'
+            font_size: '10sp'
+            size_hint_y: None
+            height: self.texture_size[1]
+            pos_hint: {"center_x": 0.5, "center_y": 0.05}
+<TelaSaida>:
+    name: 'telasaida'
+    MDFloatLayout:
+        MDFloatLayout:
+            MDLabel:
+                text: "Certo, Até logo"
+                halign: 'center'
+                font_style: 'H5'
+                theme_text_color: 'Primary'
+                pos_hint: {"center_x": 0.5, "center_y": 0.7}
+            MDRaisedButton:
+                text: "Sair!"
+                theme_text_color: 'Secondary'
+                pos_hint: {"center_x": 0.5, "center_y": 0.2}
+                on_press:
+                    root.fecharapp()

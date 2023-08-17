@@ -1,0 +1,712 @@
+[   
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Qual a diferença entre uma mulher e uma granada?",
+        "delivery": "Nenhuma, se tirar o anel, ambas levam metade da casa",
+        "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": true,
+        "explicit": true
+        },
+        "id": 1,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "single",
+        "joke": "Em época de escravidão, anão era troco?",
+        "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": true,
+        "sexist": false,
+        "explicit": true
+        },
+        "id": 2,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "single",
+        "joke": "O Rio de Janeiro, tem arrastão,tiroteio, obras desabando, falta de segurança, falha no transporte... ao invés de sediar os jogos olímpicos, deviam sediar os jogos vorazes.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 3,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "single",
+        "joke": "Tem gente que é tão pobre que só tem leite em casa quando a mãe engravida.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 4,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "single",
+        "joke": "LeBron James é tão alto que se tropeçar no Rio de Janeiro, bate a cabeça no México",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 5,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "single",
+        "joke": "Lebron James é tão alto que a miniatura dele no bolo de casamento, é um boneco de Olinda",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 6,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "single",
+        "joke": "O Quico é tao bochechudo que pra fazer bocheco, tem que beber uma piscina olímpica",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 7,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "single",
+        "joke": "A bunda da Nicki Minaj é tão grande que, se passar a mão nela no carnaval, até terminar já é páscoa. ",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 8,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Qual o nome do filho do Paulo e da Ester? ",
+        "delivery": "Poliéster.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 9,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Qual o contrário de paixão? ",
+        "delivery": "Mãeteto.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 10,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "O que o Martelo foi fazer no culto? ",
+        "delivery": "Pregar.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 11,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "O que o zero disse ao oito? ",
+        "delivery": "Gostei do seu cinto.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 12,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Por que um policial estava interrogando um saco de cimento? ",
+        "delivery": "Por que queria informações concretas.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 13,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Os asteriscos estavam fazendo uma festa. A certa altura alguém bateu na porta. Um asterisco foi abrir: era um ponto.- Você não pode entrar. Você é um ponto, e esta é uma festa só para asteriscos",
+        "delivery": "- Não está me reconhecendo? É que eu passei gel…",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 14,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Como as galinhas fazem café? ",
+        "delivery": "Com pó-pó-pó-pó-pó…",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 15,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Qual a cor mais barulhenta?",
+        "delivery": "A Corneta",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 16,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Qual é o animal que não vale mais nada?",
+        "delivery": "O Javali.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 17,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Qual é o nome do profissional que pinta carros em inglês?",
+        "delivery": "Car-pinteiro.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 18,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Sabe por que os mergulhadores profissionais se sentam na borda do barco e se atiram para trás?",
+        "delivery": "Porque se eles se atirassem para a frente cairiam dentro do barco.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 19,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Por que o bombeiro não gosta de andar?",
+        "delivery": "Porque ele socorre.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 20,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Por que o policial não gosta de sabão?",
+        "delivery": "Porque ele prefere detergente.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 21,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "O que é um pontinho amarelo na limusine? ",
+        "delivery": "É um 'milhonário'",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 22,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Quando você estiver triste é só abraçar um sapato.",
+        "delivery": "Um sapato consola.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": true,
+            "explicit": true
+        },
+        "id": 23,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Ana e César tiveram um filho.",
+        "delivery": "Ele nasceu de cesariana.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": true,
+            "explicit": true
+        },
+        "id": 24,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Quem é mais velho: o Sol ou a Lua?",
+        "delivery": "A Lua, porque já pode sair sozinha à noite.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": true,
+            "explicit": true
+        },
+        "id": 25,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Como é que as freiras secam a roupa?",
+        "delivery": "Convento.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": true,
+            "explicit": true
+        },
+        "id": 26,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Uma pessoa passou dois dias inteiros dentro da piscina e depois foi ao médico. Sabe qual foi o diagnóstico?",
+        "delivery": "Nada demais.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": true,
+            "explicit": true
+        },
+        "id": 27,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Por que a aranha é o ser vivo mais carente do mundo?",
+        "delivery": "Porque ela é um aracneedyou",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": true,
+            "explicit": true
+        },
+        "id": 28,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Qual é o nome do peixe que caiu do décimo andar do prédio?",
+        "delivery": "Ahhhhhhh-tum!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": true,
+            "explicit": true
+        },
+        "id": 29,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Por que as plantas pequenas não falam?",
+        "delivery": "Porque elas são mudas.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": true,
+            "explicit": true
+        },
+        "id": 30,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "single",
+        "joke": "A cabeça do cearense é tão grande que, perto deles, um guarda-chuva parece enfeite de coquetel. ",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 31,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "O que tem mais pressão que o submarino da Ocean Gate?",
+        "delivery": "O joelho da Thais Carla",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 32,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "single",
+        "joke": "As costas do CBUM são tão largas que precisam de três encostos ",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 33,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "single",
+        "joke": "No meio de uma turbulência, um senhor parecia estar muito apavorado. Vendo sua expressão de medo, uma comissária de bordo se aproximou e perguntou:- Posso ajudar? O senhor, por acaso, está sentindo falta de ar?- Não, moça, o que estou sentindo é falta de terra mesmo.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 34,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "- Por que o jacaré tirou o filho da escola?",
+        "delivery": "- Porque ele réptil de ano.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 35,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "- Qual campeonato é melhor que aspirina?",
+        "delivery": "- Liberta-dores. ",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 36,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "O que é um pontinho marrom no Brasil em 1500?",
+        "delivery": "Pedro Álvares Cabrown. ",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 37,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": " O que é um pontinho preto no microscópio?",
+        "delivery": " Uma blacktéria",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 38,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": " O que NÃO se deve falar a um anão em um ponto de ônibus?",
+        "delivery": " Aqui não passa Hot Wheels",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 39,
+        "safe": false,
+        "lang": "pt"
+    },
+    {
+        "error": false,
+        "category": "Dark",
+        "type": "twopart",
+        "setup": " Por que não se come a bíblia?",
+        "delivery": " Porque tem salmonela",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 40,
+        "safe": false,
+        "lang": "pt"
+    }
+]
