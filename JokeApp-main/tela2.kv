@@ -73,6 +73,12 @@
                 pos_hint: {"center_x": 0.7, "center_y": 0.5}
                 on_release:
                     root.abrir_telapiada('ingles')
+            MDRaisedButton:
+                text: "Voltar!"
+                theme_text_color: 'Secondary'
+                pos_hint: {"center_x": 0.5, "center_y": 0.1}
+                on_press:
+                    app.root.current = 'home'
 
 <TelaPiada>:
     name: 'telapiada'
@@ -92,7 +98,7 @@
             theme_text_color: 'Secondary'
             pos_hint: {"center_x": 0.5, "center_y": 0.5}
         MDRaisedButton:
-            text: "Voltar"
+            text: "Voltar a Tela Inicial"
             theme_text_color: 'Secondary'
             pos_hint: {"center_x": 0.5, "center_y": 0.2}
             on_release:
@@ -121,3 +127,9 @@
                 pos_hint: {"center_x": 0.5, "center_y": 0.2}
                 on_press:
                     root.fecharapp()
+            MDRaisedButton:
+                text: "Voltar!"
+                theme_text_color: 'Secondary'
+                pos_hint: {"center_x": 0.5, "center_y": 0.1}
+                on_press:
+                    app.root.current = 'home'
